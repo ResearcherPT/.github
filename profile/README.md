@@ -29,4 +29,4 @@
 - [@PhucHauDeveloper](https://github.com/PhucHauDeveloper)
 - Và các dân chơi / contributor ngoài khác...
 ---
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=ResearcherPT&style=for-the-badge&label=Profile%20Views%20(starts%20in%201/11/2026" alt="Profile counter!" align="center"></h3>
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=ResearcherPT&style=for-the-badge&label=Profile%20Views%20(starts%20in%201/11/2026)" alt="Profile counter!" align="center"></h3>
